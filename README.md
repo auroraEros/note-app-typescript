@@ -1,5 +1,9 @@
 # Note App
 
+## Project Screenshot
+
+![Note App Screenshot](public/images/Screenshot.png) 
+
 A simple note-taking application built with React and TypeScript. This project was primarily created to practice TypeScript while implementing common features such as adding, sorting, completing, and deleting notes.
 
 ## Features
@@ -12,6 +16,12 @@ A simple note-taking application built with React and TypeScript. This project w
 - **React** (with hooks)
 - **TypeScript**
 - **CSS (for basic styling)**
+
+
+## Demo
+You can view the live demo of the project here:  
+[Todo List App - Netlify](https://auorora-todo-list.netlify.app/)
+
 
 ## Installation & Setup
 

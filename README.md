@@ -20,7 +20,7 @@ A simple note-taking application built with React and TypeScript. This project w
 
 ## Demo
 You can view the live demo of the project here:  
-[Todo List App - Netlify](https://aurora-note-app.netlify.app/)
+[Note App - Netlify](https://aurora-note-app.netlify.app/)
 
 
 ## Installation & Setup
